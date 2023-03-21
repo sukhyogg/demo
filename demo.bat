@@ -1,1 +1,1 @@
-echo "This for demo purpose"
+echo "This for demo purpose check SCM "
